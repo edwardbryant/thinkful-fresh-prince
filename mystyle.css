@@ -1,0 +1,17 @@
+body {
+    background-color: #ffe;
+    padding-left: 2em;
+    }
+h1, h3 {
+    color: red;    
+    }
+p {
+    padding-bottom: 1em;
+    font-family: "Helvetica";
+    }    
+ul {
+    list-style-type: square;
+    }    
+li {
+    font-style: italic;
+    }
